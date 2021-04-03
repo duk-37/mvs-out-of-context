@@ -18,3 +18,7 @@ out directory
 - opencv
 - face_recognition
 - PIL
+
+## special thanks
+
+[this guy](https://github.com/seansamarov)
