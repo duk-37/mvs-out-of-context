@@ -18,7 +18,7 @@ request = youtube.search().list(
     q="nu metal official video after:2009-01-01 before:2010-01-01",
     type="video",
     videoDefinition="standard",
-    maxResults=1000
+    maxResults=50
 )
 response = request.execute()
     
