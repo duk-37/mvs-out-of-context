@@ -11,3 +11,10 @@ using the power of [the first facial recognition api i could find](https://githu
 ## examples
 
 out directory
+
+## dependencies
+
+- google api
+- opencv
+- face_recognition
+- PIL
